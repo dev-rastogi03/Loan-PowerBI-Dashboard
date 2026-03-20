@@ -54,9 +54,9 @@ The solution is built on a dataset of over **250,000+ records**, simulating real
   
 ## 📸 Dashboard Preview
 
-![Dashboard1](screenshots/dashboard1.png)
-![Dashboard2](screenshots/dashboard2.png)
-![Dashboard3](screenshots/dashboard3.png)
+![dashboard1](Screenshots/dashboard1.png)
+![dashboard2](Screenshots/dashboard2.png)
+![dashboard3](Screenshots/dashboard3.png)
 ---
 
 # Key Insights
