@@ -49,8 +49,14 @@ The solution is built on a dataset of over **250,000+ records**, simulating real
 - YOY Loan Growth  
 - YOY Default Change  
 - YTD Loan Analysis  
-- Decomposition Tree (Root Cause Analysis)  
+- Decomposition Tree (Root Cause Analysis)
 
+  
+## 📸 Dashboard Preview
+
+![Dashboard1](screenshots/dashboard1.png)
+![Dashboard2](screenshots/dashboard2.png)
+![Dashboard3](screenshots/dashboard3.png)
 ---
 
 # Key Insights
